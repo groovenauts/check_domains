@@ -3,7 +3,7 @@ domainsに記載されたドメインの期限をチェックするスクリプ�
 ## Usage
 
 ```
-git submodule update
+git submodule update --init
 bundle
 cp domains.example domains
 vi domains
